@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"require"
+			],
+			[
+				"ge",
+				"getName"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"co",
+				"countdown"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"defaul",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"defau",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pow",
+				"Build With: Powershell"
+			],
+			[
+				"clip",
+				"Clipboard Manager: Copy"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"kbd",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"yaml",
+			"view.run_command(\"example\")",
+			"sublime.active_window().open_file(\"test.html\")",
+			"window.run_command(\"promt_open_file\")",
+			"os.system(\"date\")",
+			"import os ",
+			"cmd",
+			"6+6",
+			"6+6=",
+			"nodejs",
+			"npm -v",
+			"npm -version"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Data/project-scripts"
+	],
+	"file_history":
+	[
+		"/F/Data/project-electron-menu/terminal.glue",
+		"/F/Data/project-electron-menu/package.json",
+		"/F/Data/project-electron-menu/src/main.js",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+		"/F/Data/project-ipc-demo/src/main.js",
+		"/C/Users/timsc/ipc-demo/src/countdown.html",
+		"/C/Users/timsc/ipc-demo/src/countdown.css",
+		"/C/Users/timsc/ipc-demo/src/countdown.js",
+		"/C/Users/timsc/ipc-demo/src/renderer.js",
+		"/C/Users/timsc/ipc-demo/src/main.js",
+		"/C/Users/timsc/ipc-demo/package.json",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/User/npm-start.sublime-build",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/timsc/AppData/Local/Temp/7zO0B136F65/Powershell.sublime-build",
+		"/C/Users/timsc/OneDrive/Documents/test.sh",
+		"/C/Users/timsc/OneDrive/Documents/PS1 Notes.ps1",
+		"/C/Users/timsc/OneDrive/Documents/bash-history.txt",
+		"/C/Users/timsc/OneDrive/Documents/subtxt-projects/ps1-project/build.ps1",
+		"/C/Users/timsc/AppData/Local/Temp/7zOC813672B/Powershell.sublime-build",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/User/build/powershell-test.sublime-build",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/User/expand.sublime-build",
+		"/C/Users/timsc/OneDrive/Documents/md-html.md",
+		"/C/Users/timsc/OneDrive/Documents/test.html",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/User/hello_world.py",
+		"/C/Users/timsc/OneDrive/Documents/test.css",
+		"/C/Users/timsc/OneDrive/Documents/test.js",
+		"/C/Users/timsc/AppData/Local/Temp/7zO47B73AF5/delete_word.py",
+		"/C/Users/timsc/AppData/Local/Temp/7zO47B27374/Distraction Free.sublime-settings",
+		"/C/Users/timsc/AppData/Local/Temp/7zO47B4DF22/Add Line Before.sublime-macro",
+		"/C/Program Files/Sublime Text 3/Packages/Default.sublime-package",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/config.txt",
+		"/E/Software/Partition Wizard/minitool licience.txt",
+		"/C/Users/timsc/OneDrive/Documents/# Sublime Text Notes",
+		"/C/Users/timsc/OneDrive/Documents/music.txt",
+		"/C/Users/timsc/OneDrive/Documents/music01.txt",
+		"/C/Users/timsc/OneDrive/Documents/test2.md",
+		"/C/Users/timsc/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/timsc/OneDrive/Documents/# Music VST Plugins",
+		"/E/Software/SublimeText/Thanks for supporting Sublime Text, you rock!",
+		"/C/Users/timsc/OneDrive/Documents/Useful Sublime Packages.mdown",
+		"/C/Users/timsc/OneDrive/Documents/Package Control Messages",
+		"/C/Users/timsc/OneDrive/Documents/Choco list -localonly.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"completion",
+			"mainWIndow",
+			"	<li class=\"item4\"><a href=\"4\">Item 4</a></li>\n",
+			"></",
+			"true",
+			"false",
+			"falsetr",
+			"false",
+			"bold",
+			"modified",
+			"auto",
+			"save",
+			"highlight",
+			"highligt",
+			"ultimate"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"}.\n",
+			"true",
+			"}\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 422.0
+	},
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/sublime-build/npm-start.sublime-build",
+	"project": "scripts.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
